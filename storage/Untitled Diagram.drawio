@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T01:01:33.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="ngh-hIH4qO1C2iXF2CpX" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T01:04:41.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="cA_G-53XVgVnSDieDmjd" version="21.5.0" type="github">
   <diagram name="Page-1" id="nxd_kya7xS_pJ5B8tWJU">
-    <mxGraphModel dx="733" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,58 +8,58 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-2" value="Pengguna membuka sistem informasi penjualan." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="192.5" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tTpLCvCeAeb88BYXopIM-4" target="tTpLCvCeAeb88BYXopIM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-4" value="Pengguna memasukkan informasi produk dan informasi pembeli." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="192.5" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tTpLCvCeAeb88BYXopIM-6" target="tTpLCvCeAeb88BYXopIM-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-6" value="Sistem melakukan validasi terhadap informasi yang dimasukkan." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="590" width="140" height="90" as="geometry" />
+          <mxGeometry x="392.5" y="465" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tTpLCvCeAeb88BYXopIM-8" target="tTpLCvCeAeb88BYXopIM-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-8" value=" Sistem menghitung total pembayaran." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="765" width="145" height="70" as="geometry" />
+          <mxGeometry x="390" y="585" width="145" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tTpLCvCeAeb88BYXopIM-10" target="tTpLCvCeAeb88BYXopIM-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-10" value=" Pengguna memasukkan pembayaran." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tTpLCvCeAeb88BYXopIM-12" target="tTpLCvCeAeb88BYXopIM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-12" value="Sistem menghitung kembalian (jika pembayaran melebihi total pembayaran)." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="412.5" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tTpLCvCeAeb88BYXopIM-14" target="tTpLCvCeAeb88BYXopIM-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-14" value="Sistem mencetak struk pembayaran." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="412.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kay5UgFzlZS0HPPdwSpz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tTpLCvCeAeb88BYXopIM-16" target="Kay5UgFzlZS0HPPdwSpz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tTpLCvCeAeb88BYXopIM-16" value="Informasi penjualan disimpan dalam database sistem." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kay5UgFzlZS0HPPdwSpz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kay5UgFzlZS0HPPdwSpz-3" target="tTpLCvCeAeb88BYXopIM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Kay5UgFzlZS0HPPdwSpz-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="192.5" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Kay5UgFzlZS0HPPdwSpz-5" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
