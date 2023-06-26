@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T10:15:15.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="A2lDyIg0xy0YTYFYpIgG" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T10:18:10.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Aj3CB2vUup3loCT3Q8-R" version="21.5.0" type="github">
   <diagram name="Page-1" id="kSBv9vh_wI3Kf15emFKs">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,32 +82,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-41" value="Memilih menu" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="NXwhkhInC5fZLWhPPABW-41" value="Memilih Login" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXwhkhInC5fZLWhPPABW-45" target="NXwhkhInC5fZLWhPPABW-47">
+        <mxCell id="NXwhkhInC5fZLWhPPABW-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXwhkhInC5fZLWhPPABW-45" target="NXwhkhInC5fZLWhPPABW-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-45" value="Memilih menu" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="90" height="60" as="geometry" />
+        <mxCell id="NXwhkhInC5fZLWhPPABW-45" value="Memilih Login" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="240" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NXwhkhInC5fZLWhPPABW-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="299" y="440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="NXwhkhInC5fZLWhPPABW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXwhkhInC5fZLWhPPABW-57" target="NXwhkhInC5fZLWhPPABW-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXwhkhInC5fZLWhPPABW-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="NXwhkhInC5fZLWhPPABW-57" value="Memasukan Username" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.495;entryY=0.11;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NXwhkhInC5fZLWhPPABW-47">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="528.5" y="445.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-47" value="&lt;div&gt;Login&lt;/div&gt;&lt;div&gt;Regist&lt;/div&gt;&lt;div&gt;Forgot&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="325" width="90" height="90" as="geometry" />
+        <mxCell id="NXwhkhInC5fZLWhPPABW-59" value="Memasukan Password" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
