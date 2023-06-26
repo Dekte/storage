@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T11:41:32.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="NYWpX_HMTmrgFxUAGaha" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T11:42:22.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="dTHrf9oAn_qJI-aMQFF1" version="21.5.0" type="github">
   <diagram name="Page-1" id="kSBv9vh_wI3Kf15emFKs">
     <mxGraphModel dx="838" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,19 +353,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NXwhkhInC5fZLWhPPABW-178" value="Verify Username" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="918" width="120" height="80" as="geometry" />
+          <mxGeometry x="367" y="926.5" width="93" height="62" as="geometry" />
         </mxCell>
         <mxCell id="NXwhkhInC5fZLWhPPABW-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NXwhkhInC5fZLWhPPABW-180" target="NXwhkhInC5fZLWhPPABW-184">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NXwhkhInC5fZLWhPPABW-180" value="Verify Password" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="378.5" y="1015" width="120" height="80" as="geometry" />
+          <mxGeometry x="378.5" y="1015" width="82.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="NXwhkhInC5fZLWhPPABW-183" value="Verify Username" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="561.25" y="918" width="120" height="80" as="geometry" />
+          <mxGeometry x="546" y="926.5" width="93" height="62" as="geometry" />
         </mxCell>
         <mxCell id="NXwhkhInC5fZLWhPPABW-184" value="Verify Password" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="559.75" y="1015" width="120" height="80" as="geometry" />
+          <mxGeometry x="543.75" y="1010" width="97.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
