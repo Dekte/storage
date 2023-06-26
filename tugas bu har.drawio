@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T11:13:56.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="59GhosK3pTFQDese746c" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T11:14:48.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="6GOCQQ26h6n7jHPu7Wo1" version="21.5.0" type="github">
   <diagram name="Page-1" id="kSBv9vh_wI3Kf15emFKs">
     <mxGraphModel dx="629" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,8 +275,8 @@
         <mxCell id="NXwhkhInC5fZLWhPPABW-136" value="Selesai" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="628.75" y="700" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="NXwhkhInC5fZLWhPPABW-137" value="Benar/Salah" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="230" width="80" height="80" as="geometry" />
+        <mxCell id="NXwhkhInC5fZLWhPPABW-137" value="&lt;div&gt;Benar&lt;/div&gt;&lt;div&gt;Salah&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="618.75" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
