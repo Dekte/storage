@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T12:43:34.919Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LEuQuL4ZCLTOxc-NeDA0" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T12:45:25.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nCsmQ7mpbbTN_4yTfM0o" version="22.0.8" type="github">
   <diagram name="Page-1" id="zY_hNrzLw5gKC54DvJND">
-    <mxGraphModel dx="880" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="800" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yxabkzqYBPXQsXk_Dnzp-2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="90" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yxabkzqYBPXQsXk_Dnzp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yxabkzqYBPXQsXk_Dnzp-3">
           <mxGeometry relative="1" as="geometry">
@@ -36,7 +36,7 @@
         <mxCell id="yxabkzqYBPXQsXk_Dnzp-10" value="validasi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="570" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yxabkzqYBPXQsXk_Dnzp-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yxabkzqYBPXQsXk_Dnzp-12" value="masuk ke beranda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="705" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxabkzqYBPXQsXk_Dnzp-16" value="salah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
